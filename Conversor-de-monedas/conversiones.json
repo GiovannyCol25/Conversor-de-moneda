@@ -1,0 +1,21 @@
+{
+  "baseCurrency": "COP",
+  "targetCurrency": "USD",
+  "valorUsuario": 50000.0,
+  "resultado": 11.7995,
+  "tasaCambio": 2.3599E-4
+}
+{
+  "baseCurrency": "BRL",
+  "targetCurrency": "USD",
+  "valorUsuario": 50000.0,
+  "resultado": 8960.0,
+  "tasaCambio": 0.1792
+}
+{
+  "baseCurrency": "COP",
+  "targetCurrency": "USD",
+  "valorUsuario": 50000.0,
+  "resultado": 11.7995,
+  "tasaCambio": 2.3599E-4
+}11.7995
